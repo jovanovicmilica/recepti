@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<chanel>
+	<title>Obaveštenja o novim receptima</title>
+	<link>http://sajtovistudenata.ict.edu.rs/88_18/recepti.html</link>
+	<description>RSS za nove recepte</description>
+<item>
+	<title>Posna bajadera</title>
+	<link>http://sajtovistudenata.ict.edu.rs/88_18/recepti.html#bajadera</link>
+	<description>Recept-bajadera</description>
+</item>	
+<item>
+	<title>Kikiriki bombice</title>
+	<link>http://sajtovistudenata.ict.edu.rs/88_18/recepti.html#kikirikibombice</link>
+	<description>Recept-kikiriki bombice</description>
+</item>
+<item>
+	<title>Čokoladni mafini</title>
+	<link>http://sajtovistudenata.ict.edu.rs/88_18/recepti.html#%C4%8Dokoladnimafini</link>
+	<description>Recept-čokoladni mafini</description>
+</item>
+</chanel>
+</rss>

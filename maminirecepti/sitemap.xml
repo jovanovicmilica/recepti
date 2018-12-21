@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://sajtovistudenata.ict.edu.rs/88_18/index.html</loc>
+<lastmod>2018-12-8</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>http://sajtovistudenata.ict.edu.rs/88_18/recepti.html</loc>
+<lastmod>2018-12-8</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>http://sajtovistudenata.ict.edu.rs/88_18/posaljirecept.html</loc>
+<lastmod>2018-12-8</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>http://sajtovistudenata.ict.edu.rs/88_18/oautoru.html</loc>
+<lastmod>2018-12-8</lastmod>
+<changefreq>yearly</changefreq>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>http://sajtovistudenata.ict.edu.rs/88_18/saveti.html</loc>
+<lastmod>2018-12-8</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+</urlset>
